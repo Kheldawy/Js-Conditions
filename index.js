@@ -80,7 +80,7 @@ if (language.toLowerCase() === "swedish") {
 } else if (language.toLowerCase() === "english") {
     console.log("Hello! How are you?");
 } else {
-    console.log("Nice to meet you! What language do you speak?");
+    console.log("Nice to meet you!");
 }
 
 // Multipel av 5?
